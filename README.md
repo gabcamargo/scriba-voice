@@ -48,7 +48,7 @@ python app.py
 
 ## Uso
 
-1. ressione o botão "Transcrever Áudio" para iniciar a captura de áudio.
+1. Pressione o botão "Transcrever Áudio" para iniciar a captura de áudio.
 2. Fale claramente no microfone para que o aplicativo transcreva o áudio para texto em tempo real.
 
 ## Licença
